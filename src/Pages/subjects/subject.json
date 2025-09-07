@@ -1,0 +1,7 @@
+{
+  "name": "Mathematics",
+  "grade": "10",
+  "board": "CBSE",
+  "chapters": ["Algebra", "Geometry", "Trigonometry"]
+}
+

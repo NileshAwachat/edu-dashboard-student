@@ -1,0 +1,7 @@
+{
+  "studentId": "abc123",
+  "subjectId": "math001",
+  "chapter": "Algebra",
+  "status": "not-started", 
+  "createdAt": "2025-09-06T12:00:00Z"
+}

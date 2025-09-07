@@ -1,0 +1,22 @@
+[
+  {
+    "id": "syllabus1",
+    "studentId": "abc123",
+    "subject": "Mathematics",
+    "chapters": [
+      { "name": "Algebra", "status": "not_started" },
+      { "name": "Geometry", "status": "not_started" },
+      { "name": "Calculus", "status": "not_started" }
+    ]
+  },
+  {
+    "id": "syllabus2",
+    "studentId": "abc123",
+    "subject": "Science",
+    "chapters": [
+      { "name": "Physics", "status": "not_started" },
+      { "name": "Chemistry", "status": "not_started" },
+      { "name": "Biology", "status": "not_started" }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "studentId": "abc123",
+  "date": "2025-09-06",
+  "status": "Present",   // Present | Absent | Late | Excused
+  "batch": "Batch A"
+}

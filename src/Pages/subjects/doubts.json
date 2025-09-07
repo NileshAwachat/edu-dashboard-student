@@ -1,0 +1,8 @@
+{
+  "studentId": "abc123",
+  "subject": "Mathematics",
+  "topic": "Algebra",
+  "doubtText": "I don't understand quadratic equations.",
+  "status": "Open",           // Open | Tasked | Resolved
+  "createdAt": "2025-09-06T12:00:00Z"
+}

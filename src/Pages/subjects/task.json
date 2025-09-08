@@ -4,7 +4,7 @@
   "chapter": "Algebra",
   "description": "Take notes",
   "dueDate": "2025-09-10",
-  "status": "Pending",         // Pending | Completed
-  "priority": "High",          // Low | Medium | High
-  "linkedFrom": "syllabus"     // syllabus | doubt | test | manual
+  "status": "Pending",         
+  "priority": "High",          
+  "linkedFrom": "syllabus"     
 }

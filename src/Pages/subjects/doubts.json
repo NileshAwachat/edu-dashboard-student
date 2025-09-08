@@ -3,6 +3,6 @@
   "subject": "Mathematics",
   "topic": "Algebra",
   "doubtText": "I don't understand quadratic equations.",
-  "status": "Open",           // Open | Tasked | Resolved
+  "status": "Open",          
   "createdAt": "2025-09-06T12:00:00Z"
 }

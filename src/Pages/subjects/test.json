@@ -6,5 +6,5 @@
   "marksScored": 45,
   "remarks": "Needs improvement in Algebra",
   "chaptersCovered": ["Algebra", "Geometry"],
-  "status": "Upcoming"   // Upcoming | Completed
+  "status": "Upcoming"   
 }
